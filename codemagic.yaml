@@ -1,6 +1,6 @@
 workflows:
   ios-worflow:
-    name: Niagara: Nature Quest
+    name: Niagara Nature Quest
     max_build_duration: 120
     integrations:
       app_store_connect: NiagaraNatureQuestAPIKey
